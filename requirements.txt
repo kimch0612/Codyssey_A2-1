@@ -1,0 +1,10 @@
+# 구현/시각화 (Subject 7장 허용 라이브러리)
+numpy==2.5.5
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# 노트북 작성/실행 (notebooks/*.ipynb)
+jupyter==1.1.1
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0

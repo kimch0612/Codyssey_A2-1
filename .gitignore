@@ -1,0 +1,10 @@
+Subject.txt
+Evaluate.txt
+.env
+
+.claude/
+
+data/
+.venv/
+
+__pycache__/
